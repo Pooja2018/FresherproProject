@@ -2,7 +2,7 @@
 
 CREATED A PRODUCT BILLING APPLICATION.
 
-Tachnology Used: Spring Boot + JPA + Thyme + MySQL
+Technology Used: Spring Boot + JPA + Thyme + MySQL
 
 Pages are: Product List, Billing Page
 
